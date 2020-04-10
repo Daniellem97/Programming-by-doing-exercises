@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.exe
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.deps.json
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.dll
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\bin\Debug\netcoreapp3.1\4. A Good First Program.pdb
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\obj\Debug\netcoreapp3.1\4. A Good First Program.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\obj\Debug\netcoreapp3.1\4. A Good First Program.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\obj\Debug\netcoreapp3.1\4. A Good First Program.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\obj\Debug\netcoreapp3.1\4. A Good First Program.dll
+C:\Users\danie\Desktop\PBD\4. A Good First Program\4. A Good First Program\obj\Debug\netcoreapp3.1\4. A Good First Program.pdb
