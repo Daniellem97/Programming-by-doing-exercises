@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.exe
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.deps.json
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.dll
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\bin\Debug\netcoreapp3.1\6. A letter to yourself.pdb
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\obj\Debug\netcoreapp3.1\6. A letter to yourself.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\obj\Debug\netcoreapp3.1\6. A letter to yourself.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\obj\Debug\netcoreapp3.1\6. A letter to yourself.dll
+C:\Users\danie\Desktop\PBD\6. A letter to yourself\6. A letter to yourself\obj\Debug\netcoreapp3.1\6. A letter to yourself.pdb

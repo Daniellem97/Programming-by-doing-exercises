@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\obj\Debug\netcoreapp3.1\8. Numbers and Maths.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\obj\Debug\netcoreapp3.1\8. Numbers and Maths.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.exe
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.deps.json
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.dll
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\bin\Debug\netcoreapp3.1\8. Numbers and Maths.pdb
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\obj\Debug\netcoreapp3.1\8. Numbers and Maths.dll
+C:\Users\danie\Desktop\PBD\8. Numbers and Maths\8. Numbers and Maths\obj\Debug\netcoreapp3.1\8. Numbers and Maths.pdb
