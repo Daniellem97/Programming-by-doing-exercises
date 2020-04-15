@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.exe
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.deps.json
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.dll
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\bin\Debug\netcoreapp3.1\11. Using Variables.pdb
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\obj\Debug\netcoreapp3.1\11. Using Variables.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\obj\Debug\netcoreapp3.1\11. Using Variables.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\obj\Debug\netcoreapp3.1\11. Using Variables.dll
+C:\Users\danie\Desktop\PBD\11. Using Variables\11. Using Variables\obj\Debug\netcoreapp3.1\11. Using Variables.pdb

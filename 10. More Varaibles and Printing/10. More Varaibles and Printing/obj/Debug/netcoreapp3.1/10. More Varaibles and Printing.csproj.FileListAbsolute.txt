@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.exe
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.deps.json
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.dll
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\bin\Debug\netcoreapp3.1\10. More Varaibles and Printing.pdb
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\obj\Debug\netcoreapp3.1\10. More Varaibles and Printing.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\obj\Debug\netcoreapp3.1\10. More Varaibles and Printing.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\obj\Debug\netcoreapp3.1\10. More Varaibles and Printing.dll
+C:\Users\danie\Desktop\PBD\10. More Varaibles and Printing\10. More Varaibles and Printing\obj\Debug\netcoreapp3.1\10. More Varaibles and Printing.pdb
