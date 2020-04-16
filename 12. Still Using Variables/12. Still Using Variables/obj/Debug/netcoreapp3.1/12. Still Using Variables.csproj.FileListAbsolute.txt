@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.exe
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.deps.json
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.dll
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\bin\Debug\netcoreapp3.1\12. Still Using Variables.pdb
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\obj\Debug\netcoreapp3.1\12. Still Using Variables.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\obj\Debug\netcoreapp3.1\12. Still Using Variables.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\obj\Debug\netcoreapp3.1\12. Still Using Variables.dll
+C:\Users\danie\Desktop\PBD\12. Still Using Variables\12. Still Using Variables\obj\Debug\netcoreapp3.1\12. Still Using Variables.pdb

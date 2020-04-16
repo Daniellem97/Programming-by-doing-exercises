@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.exe
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.deps.json
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.dll
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\bin\Debug\netcoreapp3.1\13. Your Schedule.pdb
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\obj\Debug\netcoreapp3.1\13. Your Schedule.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\obj\Debug\netcoreapp3.1\13. Your Schedule.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\obj\Debug\netcoreapp3.1\13. Your Schedule.dll
+C:\Users\danie\Desktop\PBD\13. Your Schedule\13. Your Schedule\obj\Debug\netcoreapp3.1\13. Your Schedule.pdb
