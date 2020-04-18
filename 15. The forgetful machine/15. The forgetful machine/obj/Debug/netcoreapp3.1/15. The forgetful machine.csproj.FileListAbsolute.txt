@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.exe
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.deps.json
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.dll
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\bin\Debug\netcoreapp3.1\15. The forgetful machine.pdb
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\obj\Debug\netcoreapp3.1\15. The forgetful machine.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\obj\Debug\netcoreapp3.1\15. The forgetful machine.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\obj\Debug\netcoreapp3.1\15. The forgetful machine.dll
+C:\Users\danie\Desktop\PBD\15. The forgetful machine\15. The forgetful machine\obj\Debug\netcoreapp3.1\15. The forgetful machine.pdb

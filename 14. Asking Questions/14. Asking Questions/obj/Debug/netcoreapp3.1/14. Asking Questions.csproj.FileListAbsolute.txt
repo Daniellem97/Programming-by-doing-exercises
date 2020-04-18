@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.exe
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.deps.json
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.dll
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\bin\Debug\netcoreapp3.1\14. Asking Questions.pdb
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\obj\Debug\netcoreapp3.1\14. Asking Questions.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\obj\Debug\netcoreapp3.1\14. Asking Questions.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\obj\Debug\netcoreapp3.1\14. Asking Questions.dll
+C:\Users\danie\Desktop\PBD\14. Asking Questions\14. Asking Questions\obj\Debug\netcoreapp3.1\14. Asking Questions.pdb
