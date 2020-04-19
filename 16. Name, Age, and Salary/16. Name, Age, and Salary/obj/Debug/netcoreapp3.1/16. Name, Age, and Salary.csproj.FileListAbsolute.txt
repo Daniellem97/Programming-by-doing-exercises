@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.exe
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.deps.json
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.dll
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\bin\Debug\netcoreapp3.1\16. Name, Age, and Salary.pdb
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\obj\Debug\netcoreapp3.1\16. Name, Age, and Salary.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\obj\Debug\netcoreapp3.1\16. Name, Age, and Salary.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\obj\Debug\netcoreapp3.1\16. Name, Age, and Salary.dll
+C:\Users\danie\Desktop\PBD\16. Name, Age, and Salary\16. Name, Age, and Salary\obj\Debug\netcoreapp3.1\16. Name, Age, and Salary.pdb
