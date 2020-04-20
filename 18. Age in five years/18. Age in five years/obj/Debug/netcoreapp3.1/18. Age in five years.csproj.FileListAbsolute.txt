@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.exe
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.deps.json
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.dll
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\bin\Debug\netcoreapp3.1\18. Age in five years.pdb
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\obj\Debug\netcoreapp3.1\18. Age in five years.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\obj\Debug\netcoreapp3.1\18. Age in five years.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\obj\Debug\netcoreapp3.1\18. Age in five years.dll
+C:\Users\danie\Desktop\PBD\18. Age in five years\18. Age in five years\obj\Debug\netcoreapp3.1\18. Age in five years.pdb
