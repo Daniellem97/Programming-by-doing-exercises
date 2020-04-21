@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.exe
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.deps.json
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.dll
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\bin\Debug\netcoreapp3.1\19. A dumb calculator.pdb
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\obj\Debug\netcoreapp3.1\19. A dumb calculator.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\obj\Debug\netcoreapp3.1\19. A dumb calculator.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\obj\Debug\netcoreapp3.1\19. A dumb calculator.dll
+C:\Users\danie\Desktop\PBD\19. A dumb calculator\19. A dumb calculator\obj\Debug\netcoreapp3.1\19. A dumb calculator.pdb
