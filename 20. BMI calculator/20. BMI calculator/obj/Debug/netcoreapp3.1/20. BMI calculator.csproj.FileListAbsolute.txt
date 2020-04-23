@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.exe
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.deps.json
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.dll
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\bin\Debug\netcoreapp3.1\20. BMI calculator.pdb
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\obj\Debug\netcoreapp3.1\20. BMI calculator.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\obj\Debug\netcoreapp3.1\20. BMI calculator.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\obj\Debug\netcoreapp3.1\20. BMI calculator.dll
+C:\Users\danie\Desktop\PBD\20. BMI calculator\20. BMI calculator\obj\Debug\netcoreapp3.1\20. BMI calculator.pdb
