@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.exe
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.deps.json
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.dll
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\bin\Debug\netcoreapp3.1\23. Else and If.pdb
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\obj\Debug\netcoreapp3.1\23. Else and If.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\obj\Debug\netcoreapp3.1\23. Else and If.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\obj\Debug\netcoreapp3.1\23. Else and If.dll
+C:\Users\danie\Desktop\PBD\23. Else and If\23. Else and If\obj\Debug\netcoreapp3.1\23. Else and If.pdb
