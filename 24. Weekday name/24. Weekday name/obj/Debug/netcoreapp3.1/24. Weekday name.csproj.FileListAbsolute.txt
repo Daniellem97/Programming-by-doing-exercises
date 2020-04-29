@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.exe
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.deps.json
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.dll
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\bin\Debug\netcoreapp3.1\24. Weekday name.pdb
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\obj\Debug\netcoreapp3.1\24. Weekday name.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\obj\Debug\netcoreapp3.1\24. Weekday name.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\obj\Debug\netcoreapp3.1\24. Weekday name.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\obj\Debug\netcoreapp3.1\24. Weekday name.dll
+C:\Users\danie\Desktop\PBD\24. Weekday name\24. Weekday name\obj\Debug\netcoreapp3.1\24. Weekday name.pdb
