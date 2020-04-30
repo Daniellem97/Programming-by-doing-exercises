@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.exe
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.deps.json
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.dll
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\bin\Debug\netcoreapp3.1\25. Age what can you do.pdb
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\obj\Debug\netcoreapp3.1\25. Age what can you do.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\obj\Debug\netcoreapp3.1\25. Age what can you do.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\obj\Debug\netcoreapp3.1\25. Age what can you do.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\obj\Debug\netcoreapp3.1\25. Age what can you do.dll
+C:\Users\danie\Desktop\PBD\25. Age what can you do\25. Age what can you do\obj\Debug\netcoreapp3.1\25. Age what can you do.pdb
