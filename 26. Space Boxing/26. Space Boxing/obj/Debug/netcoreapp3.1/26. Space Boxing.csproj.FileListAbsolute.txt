@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.exe
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.deps.json
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.dll
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\bin\Debug\netcoreapp3.1\26. Space Boxing.pdb
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\obj\Debug\netcoreapp3.1\26. Space Boxing.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\obj\Debug\netcoreapp3.1\26. Space Boxing.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\obj\Debug\netcoreapp3.1\26. Space Boxing.dll
+C:\Users\danie\Desktop\PBD\26. Space Boxing\26. Space Boxing\obj\Debug\netcoreapp3.1\26. Space Boxing.pdb
