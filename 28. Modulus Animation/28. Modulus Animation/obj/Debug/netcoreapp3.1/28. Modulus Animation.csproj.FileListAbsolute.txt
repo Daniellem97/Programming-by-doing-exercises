@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.exe
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.deps.json
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.dll
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\bin\Debug\netcoreapp3.1\28. Modulus Animation.pdb
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\obj\Debug\netcoreapp3.1\28. Modulus Animation.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\obj\Debug\netcoreapp3.1\28. Modulus Animation.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\obj\Debug\netcoreapp3.1\28. Modulus Animation.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\obj\Debug\netcoreapp3.1\28. Modulus Animation.dll
+C:\Users\danie\Desktop\PBD\28. Modulus Animation\28. Modulus Animation\obj\Debug\netcoreapp3.1\28. Modulus Animation.pdb

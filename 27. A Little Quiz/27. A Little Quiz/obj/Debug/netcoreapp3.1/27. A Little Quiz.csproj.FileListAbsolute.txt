@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.exe
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.deps.json
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.dll
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\bin\Debug\netcoreapp3.1\27. A Little Quiz.pdb
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\obj\Debug\netcoreapp3.1\27. A Little Quiz.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\obj\Debug\netcoreapp3.1\27. A Little Quiz.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\obj\Debug\netcoreapp3.1\27. A Little Quiz.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\obj\Debug\netcoreapp3.1\27. A Little Quiz.dll
+C:\Users\danie\Desktop\PBD\27. A Little Quiz\27. A Little Quiz\obj\Debug\netcoreapp3.1\27. A Little Quiz.pdb

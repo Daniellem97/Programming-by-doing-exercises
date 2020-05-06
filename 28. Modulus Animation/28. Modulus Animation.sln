@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Modulus Animation", "28. Modulus Animation\28. Modulus Animation.csproj", "{EE6AE5C5-C595-494A-8866-6837D0C93B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE6AE5C5-C595-494A-8866-6837D0C93B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6AE5C5-C595-494A-8866-6837D0C93B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6AE5C5-C595-494A-8866-6837D0C93B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6AE5C5-C595-494A-8866-6837D0C93B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09B5B09-9E4B-4967-B39A-74DA8C6BF083}
+	EndGlobalSection
+EndGlobal
