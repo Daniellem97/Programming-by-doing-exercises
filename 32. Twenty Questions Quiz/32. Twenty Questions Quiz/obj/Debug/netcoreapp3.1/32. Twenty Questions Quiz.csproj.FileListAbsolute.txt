@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.exe
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.deps.json
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.runtimeconfig.json
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.runtimeconfig.dev.json
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.dll
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\bin\Debug\netcoreapp3.1\32. Twenty Questions Quiz.pdb
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\obj\Debug\netcoreapp3.1\32. Twenty Questions Quiz.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\obj\Debug\netcoreapp3.1\32. Twenty Questions Quiz.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\obj\Debug\netcoreapp3.1\32. Twenty Questions Quiz.AssemblyInfo.cs
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\obj\Debug\netcoreapp3.1\32. Twenty Questions Quiz.dll
+C:\Users\danie\source\repos\32. Twenty Questions Quiz\32. Twenty Questions Quiz\obj\Debug\netcoreapp3.1\32. Twenty Questions Quiz.pdb
