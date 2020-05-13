@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\obj\Debug\netcoreapp3.1\33. Your own adventure.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\obj\Debug\netcoreapp3.1\33. Your own adventure.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\obj\Debug\netcoreapp3.1\33. Your own adventure.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.exe
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.deps.json
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.dll
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\bin\Debug\netcoreapp3.1\33. Your own adventure.pdb
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\obj\Debug\netcoreapp3.1\33. Your own adventure.dll
+C:\Users\danie\Desktop\PBD\33. Your own adventure\33. Your own adventure\obj\Debug\netcoreapp3.1\33. Your own adventure.pdb
