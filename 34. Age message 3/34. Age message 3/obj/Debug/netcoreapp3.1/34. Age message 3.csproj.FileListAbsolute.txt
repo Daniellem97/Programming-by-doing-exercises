@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.exe
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.deps.json
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.dll
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\bin\Debug\netcoreapp3.1\34. Age message 3.pdb
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\obj\Debug\netcoreapp3.1\34. Age message 3.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\obj\Debug\netcoreapp3.1\34. Age message 3.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\obj\Debug\netcoreapp3.1\34. Age message 3.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\obj\Debug\netcoreapp3.1\34. Age message 3.dll
+C:\Users\danie\Desktop\PBD\34. Age message 3\34. Age message 3\obj\Debug\netcoreapp3.1\34. Age message 3.pdb
