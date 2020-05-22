@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.exe
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.deps.json
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.runtimeconfig.json
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.runtimeconfig.dev.json
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.dll
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\bin\Debug\netcoreapp3.1\37. Gender Game.pdb
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\obj\Debug\netcoreapp3.1\37. Gender Game.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\obj\Debug\netcoreapp3.1\37. Gender Game.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\obj\Debug\netcoreapp3.1\37. Gender Game.AssemblyInfo.cs
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\obj\Debug\netcoreapp3.1\37. Gender Game.dll
+C:\Users\danie\Desktop\PBD\37. Gender Game\37. Gender Game\obj\Debug\netcoreapp3.1\37. Gender Game.pdb
